@@ -7,7 +7,7 @@ depth: 9
 
 ## Example usage:
 ```
-java -jar '.\WWW Visualizer Crawler-1.0.jar'
+java -jar .\WWW.Visualizer.Crawler-1.0.jar
 Enter mode (crawl, append):
 > crawl
 
