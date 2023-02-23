@@ -19,7 +19,7 @@ I recommend using some sort of newspaper website as root site because these usua
 
 Convert to GML file:
 ```
-python '.\GML Converter.py'
+python .\GML.Converter.py
 ```
 
 Now you can open `graph.gml` via Graphia.
